@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo
 !/bin/bash
 echo ALX school is so cool
@@ -5,3 +6,17 @@ echo
 !/bin/bash
 ALX
 echo ALX
+=======
+#!/bin/bash
+ALX schoolroot@0c9feff12d10:~/alx-pre_course/0x01-git/bash# ls
+98 alx school
+root@fd2fd96aa60c:~/alx-pre_course/0x01-git/bash# ls
+#!/bin/bash
+The school is open!root@fd2fd96aa60c:/alx-pre_course/0x01-git/bash# ls                                                                             
+
+98  alx  school
+root@fd2fd96aa60c:/alx-pre_course/0x01-git/bash# git add .
+root@fd2fd96aa60c:/alx-pre_course/0x01-git/bash# git commit -m "My personal work"
+root@fd2fd96aa60c:/alx-pre_course/0x01-git/bash# git push --set-
+root@fd2fd96aa60c:/alx-pre_course/0x01-git/bash# git push -set-upstream origin update_script
+>>>>>>> update_script
