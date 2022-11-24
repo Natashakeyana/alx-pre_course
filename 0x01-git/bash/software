@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 echo"Alx School is so cool!"
+=======
+echo "The school is open!"
+:wq
+
+>>>>>>> update_script
 =======
 echo "The school is open!"
 :wq
